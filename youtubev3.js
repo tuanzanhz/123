@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
             loadVideo(this.value);
         }
     }
-    loadVideo("BigBang");
+    loadVideo("Chi Pu Official ");
 });
 
 var modal = document.getElementById('myModal');
